@@ -1,0 +1,5 @@
+C:\Users\Monse\source\repos\ParcialI\ParcialI\obj\Debug\net8.0\ParcialI.csproj.AssemblyReference.cache
+C:\Users\Monse\source\repos\ParcialI\ParcialI\obj\Debug\net8.0\ParcialI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monse\source\repos\ParcialI\ParcialI\obj\Debug\net8.0\ParcialI.AssemblyInfoInputs.cache
+C:\Users\Monse\source\repos\ParcialI\ParcialI\obj\Debug\net8.0\ParcialI.AssemblyInfo.cs
+C:\Users\Monse\source\repos\ParcialI\ParcialI\obj\Debug\net8.0\ParcialI.csproj.CoreCompileInputs.cache
